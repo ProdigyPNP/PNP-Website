@@ -10,6 +10,10 @@ title: "Lock/ban a Prodigy account"
 4. `[Hack] Set Level` => 5
 5. Log Out
 
+:::warning
+Only do this on an alt. There is no guarantee that you can unlock your account.
+:::
+
 You've now successfully locked a Prodigy account- it can't be accesed again!
 Try logging in then joining a world- haha, not possible!
 
@@ -20,3 +24,4 @@ Try logging in then joining a world- haha, not possible!
 4. Try joining a world. If it didn't work, reload and try again.
 
 You've now successfully unlocked a Prodigy account- hopefully!
+Good luck!
