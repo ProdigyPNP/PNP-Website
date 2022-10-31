@@ -37,7 +37,7 @@ _.functions.customChat = function (text) {
     dialogue.onClose = function () {};
 
 
-    _instance.prodigy.notifications.setPaused(true);
+    _.instance.prodigy.notifications.setPaused(true);
 
 
     function next () {
