@@ -40,7 +40,7 @@ _.functions.customChat = function (text) {
     _instance.prodigy.notifications.setPaused(true);
 
 
-    const next = function () {
+    function next () {
         dialogue.current = dialogue.eventQueue.splice(0, dialogue.skipCounter + 1)[dialogue.skipCounter];
         dialogue.skipCounter = 0;
 
@@ -56,7 +56,8 @@ _.functions.customChat = function (text) {
                     item
                 );
             }
-    };
+        };
+    }
 
 
     next();
