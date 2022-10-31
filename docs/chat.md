@@ -10,7 +10,7 @@ Be responsible.
 :::
 
 ```js
-_.functions.customChat = function (text: string) {
+_.functions.customChat = function (text) {
 
     if (_.instance == false) return alert("You need the extension for this.");
 
