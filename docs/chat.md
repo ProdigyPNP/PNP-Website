@@ -6,7 +6,7 @@ title: "Custom Chat Messages"
 ## How to do custom chat messages in Prodigy
 
 :::warning
-Be responsible.
+This is patched/doesn't work
 :::
 
 ```js
