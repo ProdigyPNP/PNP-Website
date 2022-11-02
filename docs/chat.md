@@ -32,7 +32,7 @@ _.functions.customChat = function (text) {
         dialogue.eventQueue [0]
     );
 
-    dialogue.eventQueue [0] = window._.pickBy(dialogue.eventQueue [0], x => x !== undefined);
+    dialogue.eventQueue[0] = window._.pickBy(dialogue.eventQueue [0], x => x !== undefined);
     dialogue.closeDialogue(false);
     dialogue.onClose = function () {};
 
