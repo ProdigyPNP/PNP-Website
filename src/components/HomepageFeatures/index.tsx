@@ -34,8 +34,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        ProdigyPNP comes with an additional ingame chat for Prodigy hackers. This chat is also accessible outside of Prodigy, at&nbsp;
-        <a href="https://chat.prodigypnp.com:8443/">chat.prodigypnp.com:8443</a>!
+        ProdigyPNP comes with an additional ingame chat for Prodigy hackers. This chat is also accessible outside of Prodigy, at (removed)!
       </>
     ),
   },
