@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_prodigypnp_website=self.webpackChunk_prodigypnp_website||[]).push([[713],{3457:e=>{e.exports=JSON.parse('[{"label":"official","permalink":"/blog/tags/official","count":1}]')}}]);

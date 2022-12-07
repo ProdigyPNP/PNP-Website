@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_prodigypnp_website=self.webpackChunk_prodigypnp_website||[]).push([[744],{4469:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);
