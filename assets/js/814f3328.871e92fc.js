@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_prodigypnp_website=self.webpackChunk_prodigypnp_website||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hacks are being shut down. Thanks for everything.","permalink":"/blog/closing"}]}')}}]);

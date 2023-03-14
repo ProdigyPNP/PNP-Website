@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_prodigypnp_website=self.webpackChunk_prodigypnp_website||[]).push([[876],{3371:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/official","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

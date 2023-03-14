@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://prodigypnp.com/blog</id>
+    <title>ProdigyPNP Blog</title>
+    <updated>2023-03-14T17:27:19.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://prodigypnp.com/blog"/>
+    <subtitle>ProdigyPNP Blog</subtitle>
+    <icon>https://prodigypnp.com/https://github.com/prodigypnp.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Hacks are being shut down. Thanks for everything.]]></title>
+        <id>closing</id>
+        <link href="https://prodigypnp.com/blog/closing"/>
+        <updated>2023-03-14T17:27:19.000Z</updated>
+        <summary type="html"><![CDATA[Before you do anything, please join the temporary discord server, discord.gg/2qzTbdXSg9, though we'll be moving to other platforms soon.]]></summary>
+        <content type="html"><![CDATA[<div class="theme-admonition theme-admonition-warning alert alert--danger admonition_vRZR"><div class="admonitionHeading_eHPc"><span class="admonitionIcon_YvaZ"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M5.05.31c.81 2.17.41 3.38-.52 4.31C3.55 5.67 1.98 6.45.9 7.98c-1.45 2.05-1.7 6.53 3.53 7.7-2.2-1.16-2.67-4.52-.3-6.61-.61 2.03.53 3.33 1.94 2.86 1.39-.47 2.3.53 2.27 1.67-.02.78-.31 1.44-1.13 1.81 3.42-.59 4.78-3.42 4.78-5.56 0-2.84-2.53-3.22-1.25-5.61-1.52.13-2.03 1.13-1.89 2.75.09 1.08-1.02 1.8-1.86 1.33-.67-.41-.66-1.19-.06-1.78C8.18 5.31 8.68 2.45 5.05.32L5.03.3l.02.01z"></path></svg></span>danger</div><div class="admonitionContent_IFw4"><p><a href="https://discord.gg/2qzTbdXSg9" target="_blank" rel="noopener noreferrer"><strong>Before you do anything, please join the temporary discord server, discord.gg/2qzTbdXSg9, though we'll be moving to other platforms soon.</strong></a></p></div></div><br><p>First we'd like to thank everyone for being with us. For the past 6 months, we've maintained the largest Prodigy hack, all while keepings things open source and ad-free.</p><p>Our goal, of bringing back Prodigy hacks, has somewhat been accomplished! Costs of keeping alive Prodigy Hack servers have also been up to $20 a month, in the past few months, and that's all from my, gemsvidø's wallet.</p><p>For these reasons, as of November 4, 2022, all official publications of our extension on webstores, and instances of P-NP servers, will all be closed down.</p><p>We will keep our source code on GitHub, where anyone can continue development by forking our repositories. We'll continue to review pull requests, but patched hacks most likely will remain patched. Our main issue is Prodigy made a little patch and I, being the only active person of ProdigyPNP, have no idea how to fix it.</p><p>If you would like to run your own instance of the hacks, check out <a href="https://github.com/ProdigyPNP/P-NP" target="_blank" rel="noopener noreferrer">ProdigyPNP/P-NP</a>, but again, there is still fixing to be done. <a href="https://github.com/ProdigyPNP/ProdigyMathGameHacking/blob/master/LICENSE.txt" target="_blank" rel="noopener noreferrer">Our license allows anyone to run and develop our hacks, as long as no profit is made</a>.</p><p>Thank you everyone for understanding, and getting us to insane milestones, such as 45k extension weekly users (before removal), 30k YouTube views (before our main tutorial was removed), and 7k Discord members (before the server was TOS'd).</p><p>If you're wondering where ProdigyPNP is headed next, which most of you likely aren't, and are just children thirsting for Prodigy hacks, sorry, anyways, I'm headed to developing actual software that's legal and doesn't break every five days, and <strong>maybe, perhaps</strong>, a <a href="https://github.com/ProdigyPXP" target="_blank" rel="noopener noreferrer">new Prodigy hack menu</a>. Check out <a href="https://github.com/ProdigyPXP" target="_blank" rel="noopener noreferrer">@ProdigyPXP</a> to see the software and for updates on the new hacks I'm making.</p><p>So long, everyone. Good luck, and GodSpeed.</p>]]></content>
+        <author>
+            <name>gemsvidø</name>
+            <uri>https://github.com/afkvido</uri>
+        </author>
+        <author>
+            <name>ProdigyPNP</name>
+            <uri>https://github.com/ProdigyPNP</uri>
+        </author>
+        <category label="official" term="official"/>
+    </entry>
+</feed>
