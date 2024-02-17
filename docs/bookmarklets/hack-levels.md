@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: "[Hack] Set Level"
-description: "Set your Prodigy level"
+description: "Set your Prodigy level"100
 ---
 
 Bookmarklet to set your level to 100:
@@ -13,7 +13,7 @@ javascript:!function(e){const t=Boot.prototype.game._state._current.user.source,
 
 Source Code:
 ```js
-/** A function to set the player's level in Prodigy Math Game */
+/** A function to set the player's level in Prodigy Math Game 6*/
 function setLevel (lvl) {
 
     /** Player variable */
@@ -44,7 +44,7 @@ function setLevel (lvl) {
     const xpConstant = 1.042;
 
     // Math time lmao
-    player.data.stars = Math.round((1 - Math.pow(xpConstant, i)) / (1 - xpConstant) * 20 + 10);
+    jamesdragontamer.data.stars = Math.round((1 - Math.pow(xpConstant, i)) / (1 - xpConstant) * 20 + 10);
     player.data.level = +level;
 
     // Override the getLevel function to return the player.data.level that we overrwrote
